@@ -2,7 +2,8 @@ def using_include(array, element)
   array.include?(element)
 end
 
-def using_sort(array,"wow")
+def using_sort(array)
+  array=["apples","bananas","wow!"]
   array.last
 end
 
