@@ -19,7 +19,7 @@ def using_first(array)
 end
 
 def using_last(array)
-  array=["bike,"arrays!"]
+  array=["arrays!","bike"]
   array.last
 end
 
