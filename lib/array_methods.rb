@@ -24,5 +24,6 @@ def using_last(array)
 end
 
 def using_size(array)
-
+  array=["sailor mars","sailor mercury","sailor jupiter", "sailor moon", "sailor venus", "sailor pluto"]
+  array.size
 end
